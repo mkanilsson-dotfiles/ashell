@@ -16,6 +16,7 @@ opacity = 1.0
 font_name = "JetBrains Mono"
 opacity = 1.0
 style = "Solid"
+scale_factor = 1.1
 
 success_color = "#98971a"
 warning_color = "#d79921"
