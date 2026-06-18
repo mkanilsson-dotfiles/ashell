@@ -13,6 +13,9 @@ right = ["MediaPlayer", "Privacy",  "SystemInfo", "Notifications", "Tray", "Sett
 mode = "Title"
 truncate_title_after_length = 60
 
+[workspaces]
+visibility_mode = "MonitorSpecific"
+
 [appearance.menu]
 opacity = 1.0
 
@@ -26,6 +29,8 @@ success_color = "#98971a"
 warning_color = "#d79921"
 danger_color = "#cc241d"
 text_color = "#ebdbb2"
+
+workspace_colors = [ "#458588", "#458588", "#458588", "#458588" ]
 
 [appearance.primary_color]
 base = "#458588"
