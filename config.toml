@@ -1,0 +1,18 @@
+[appearance]
+font_name = "JetBrains Mono"
+opacity = 1.0
+
+success_color = "#98971a"
+warning_color = "#d79921"
+danger_color = "#cc241d"
+text_color = "#ebdbb2"
+
+[appearance.primary_color]
+base = "#458588"
+text = "#ebdbb2"
+
+[appearance.background_color]
+base = "#282828"
+weak = "#504945"
+strong = "#1d2021"
+text = "#ebdbb2"
