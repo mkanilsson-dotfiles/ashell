@@ -9,6 +9,10 @@ left = ["Workspaces", "WindowTitle"]
 center = ["Tempo"]
 right = ["MediaPlayer", "Privacy",  "SystemInfo", "Notifications", "Tray", "Settings"]
 
+[window_title]
+mode = "Title"
+truncate_title_after_length = 60
+
 [appearance.menu]
 opacity = 1.0
 
