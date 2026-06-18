@@ -1,6 +1,21 @@
+language = "en-US"
+region = "sv-SE"
+
+[animations]
+enabled = true
+
+[modules]
+left = ["Workspaces", "WindowTitle"]
+center = ["Tempo"]
+right = ["MediaPlayer", "Privacy",  "SystemInfo", "Notifications", "Tray", "Settings"]
+
+[appearance.menu]
+opacity = 1.0
+
 [appearance]
 font_name = "JetBrains Mono"
 opacity = 1.0
+style = "Solid"
 
 success_color = "#98971a"
 warning_color = "#d79921"
